@@ -1,2 +1,2 @@
 # Amazon-clone-project
-not compelted
+not completed
